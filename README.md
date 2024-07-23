@@ -1,10 +1,6 @@
-Here’s the updated README with the project name **AI PDF Chatbot**:
-
----
-
 # AI PDF Chatbot
 
-**AI PDF Chatbot** is an advanced PDF analyzer that utilizes Generative AI to enable contextual Q&A on file contents. This project integrates LangChain, OpenAI, Redis, and Streamlit to provide an interactive and intelligent PDF querying experience.
+**AI PDF Chatbot** is a PDF analyzer that utilizes Generative AI to enable contextual Q&A on file contents. This project integrates LangChain, OpenAI, Redis, and Streamlit to provide an interactive and intelligent PDF querying experience.
 
 ## Features
 
@@ -24,8 +20,8 @@ Here’s the updated README with the project name **AI PDF Chatbot**:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/ai-pdf-chatbot.git
-   cd ai-pdf-chatbot
+   git clone https://github.com/void-512/pdf-analyzer.git
+   cd pdf-analyzer
    ```
 
 2. **Install Dependencies**
